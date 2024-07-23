@@ -1,0 +1,2 @@
+{"id":"E001","name":"thien","age":"22","salary":"1789.27661","joinYear":2021}
+{"id":"E002","name":"nhan","age":"23","salary":"2200.0","joinYear":2020}
